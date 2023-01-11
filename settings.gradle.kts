@@ -1,3 +1,3 @@
 
-rootProject.name = "FattorialeFibonacci"
+rootProject.name = "fattoriale-fibonacci"
 

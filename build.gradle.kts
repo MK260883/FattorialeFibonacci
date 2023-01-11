@@ -5,7 +5,7 @@ plugins {
     application
 }
 
-group = "org.example"
+group = "ongaro.marco"
 version = "1.0-SNAPSHOT"
 
 repositories {
